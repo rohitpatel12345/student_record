@@ -1,0 +1,88 @@
+{
+  "student": [
+    {
+      "id": 3,
+      "rollno": 123,
+      "name": "pavan",
+      "city": "bhopal",
+      "fees": 2300
+    },
+    {
+      "id": 5,
+      "rollno": 125,
+      "name": "saloni",
+      "city": "bhopal",
+      "fees": 2300
+    },
+    {
+      "id": 6,
+      "rollno": 126,
+      "name": "shrikant",
+      "city": "bhopal",
+      "fees": 2300
+    },
+    {
+      "rollno": "127",
+      "name": "harshit",
+      "city": "khandwa",
+      "fees": "34000",
+      "id": 7
+    },
+    {
+      "rollno": "128",
+      "name": "harish patel",
+      "city": "dhanashri",
+      "fees": "96000",
+      "id": 8
+    },
+    {
+      "rollno": "129",
+      "name": "Devansh",
+      "city": "shimla",
+      "fees": "25000",
+      "id": 9
+    },
+    {
+      "rollno": "130",
+      "name": "raj",
+      "city": "russia",
+      "fees": "85000",
+      "id": 10
+    },
+    {
+      "rollno": "131",
+      "name": "sneha",
+      "city": "harda",
+      "fees": "95000",
+      "id": 11
+    },
+    {
+      "rollno": "132",
+      "name": "Revansh Patel",
+      "city": "pipariya",
+      "fees": "63000",
+      "id": 12
+    },
+    {
+      "rollno": "133",
+      "name": "Aarohi patel",
+      "city": "bankhedi",
+      "fees": "45000",
+      "id": 13
+    },
+    {
+      "rollno": "134",
+      "name": "Aavni patel",
+      "city": "singapur",
+      "fees": "90000",
+      "id": 14
+    },
+    {
+      "rollno": "135",
+      "name": "patel rohit",
+      "city": "sagar",
+      "fees": "90089",
+      "id": 15
+    }
+  ]
+}
